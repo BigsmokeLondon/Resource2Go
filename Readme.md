@@ -1,6 +1,6 @@
 # Resource2Go 2.0.0 CLN - Installation Guide.
 
-This release is split into multiple parts for easier upload.  
+This release is split into multiple parts for easier upload
 Follow the steps below to extract and install.
 
 ---
